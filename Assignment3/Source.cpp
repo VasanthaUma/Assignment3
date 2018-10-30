@@ -1,4 +1,4 @@
-//Developed by Vasantha Buddiga
+//Developed by Vasantha Buddiga-Palindrome
 #include <iostream>
 #include <cstring>
 using namespace std;
